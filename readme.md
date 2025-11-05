@@ -660,6 +660,8 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro. ![Dollar][mon]
 - [Angry IP Scanner](https://angryip.org/) - Cross-platform network scanner. ![Open Source][oss]
 - [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS. ![Free][free]
+- [ClashX Guide](https://clashx.tech) - Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS.
+  ![Free][free]
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) - Control the DNSCrypt Proxy. ![Open Source][oss]
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. ![Open Source][oss]
